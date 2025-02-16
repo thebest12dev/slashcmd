@@ -1,0 +1,23 @@
+{
+  "name": "slashcmd",
+  "version": "1.1.2",
+  "description": "A minimal slash-command parser.",
+  "main": "index.js",
+  "module": "index.mjs",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "slash-command",
+    "parser"
+  ],
+  "author": "thebest12lines",
+  "license": "MIT",
+  "dependencies": {
+    "slashcmd": "file:"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thebest12dev/slashcmd"
+  }
+}
