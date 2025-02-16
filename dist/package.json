@@ -1,6 +1,6 @@
 {
   "name": "slashcmd",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "A minimal slash-command parser.",
   "main": "index.js",
   "module": "index.mjs",
